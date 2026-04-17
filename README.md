@@ -1,8 +1,8 @@
 # Robotics Solutions - Laboratory Work
 
 Consolidated repository containing all source code solutions for the laboratory work (TP2 and TP3) in Software Architecture for Robotics.
--TP2 --> ros-pub-sub-communication.
--TP3 --> imu-turtle-control.
+- TP2 --> ros-pub-sub-communication.
+- TP3 --> imu-turtle-control.
 
 ## Project Structure
 
